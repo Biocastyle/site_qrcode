@@ -1,2 +1,2 @@
 # site_qrcode
-Esse site usei para comerçar a ver se coseguia fazer algo do zero, somente baseado em um projeto que peguei na internet 
+Projeto simples do Front Mentor, onde consegui testar meus aprendizados sobre HTML e CSS, nesse projeto, meu conhecimento ainda era baixo, visto isso a primeira versão ainda não possui uma pagina responsiva  
